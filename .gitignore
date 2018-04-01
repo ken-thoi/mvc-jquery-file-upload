@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/jQuery-File-Upload.MVC5/.vs/jQuery-File-Upload.MVC5/v15/Server/sqlite3
